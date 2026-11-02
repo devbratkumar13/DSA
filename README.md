@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0896-monotonic-array](https://github.com/devbratkumar13/DSA/tree/master/0896-monotonic-array) |
 ## Linked List
 |  |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
