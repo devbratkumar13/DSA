@@ -6,6 +6,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0896-monotonic-array](https://github.com/devbratkumar13/DSA/tree/master/0896-monotonic-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devbratkumar13/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devbratkumar13/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
