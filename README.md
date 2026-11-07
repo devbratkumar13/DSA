@@ -19,6 +19,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devbratkumar13/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devbratkumar13/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0141-linked-list-cycle](https://github.com/devbratkumar13/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devbratkumar13/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
