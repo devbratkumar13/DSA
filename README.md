@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/devbratkumar13/DSA/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devbratkumar13/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devbratkumar13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/devbratkumar13/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
