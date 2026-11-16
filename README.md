@@ -96,6 +96,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devbratkumar13/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/devbratkumar13/DSA/tree/master/0409-longest-palindrome) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/devbratkumar13/DSA/tree/master/0371-sum-of-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
