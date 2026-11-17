@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/devbratkumar13/DSA/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devbratkumar13/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -96,6 +97,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devbratkumar13/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/devbratkumar13/DSA/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String Matching
 |  |
@@ -124,5 +126,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
