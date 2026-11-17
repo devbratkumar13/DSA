@@ -7,6 +7,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0896-monotonic-array](https://github.com/devbratkumar13/DSA/tree/master/0896-monotonic-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devbratkumar13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devbratkumar13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/devbratkumar13/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devbratkumar13/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Linked List
@@ -60,6 +61,7 @@
 | [0371-sum-of-two-integers](https://github.com/devbratkumar13/DSA/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devbratkumar13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devbratkumar13/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -128,4 +130,12 @@
 | ------- |
 | [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devbratkumar13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devbratkumar13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
