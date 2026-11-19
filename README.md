@@ -138,4 +138,8 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devbratkumar13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/devbratkumar13/DSA/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
