@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devbratkumar13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0682-baseball-game](https://github.com/devbratkumar13/DSA/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/devbratkumar13/DSA/tree/master/0896-monotonic-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devbratkumar13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devbratkumar13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/devbratkumar13/DSA/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/devbratkumar13/DSA/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
