@@ -50,6 +50,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/devbratkumar13/DSA/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbratkumar13/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devbratkumar13/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/devbratkumar13/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbratkumar13/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String Matching
 |  |
