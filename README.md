@@ -51,6 +51,7 @@
 | [0234-palindrome-linked-list](https://github.com/devbratkumar13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/devbratkumar13/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbratkumar13/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/devbratkumar13/DSA/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbratkumar13/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3174-clear-digits](https://github.com/devbratkumar13/DSA/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0415-add-strings](https://github.com/devbratkumar13/DSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/devbratkumar13/DSA/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devbratkumar13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3174-clear-digits](https://github.com/devbratkumar13/DSA/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
