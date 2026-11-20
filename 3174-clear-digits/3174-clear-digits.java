@@ -1,16 +1,24 @@
+import java.util.*;
+
 class Solution {
     public String clearDigits(String s) {
-        StringBuilder sb = new StringBuilder();
+        Deque<Character> stack = new ArrayDeque<>();
 
         for (char c : s.toCharArray()) {
             if (Character.isDigit(c)) {
-                if (sb.length() > 0) {
-                    sb.deleteCharAt(sb.length() - 1);
+                if (!stack.isEmpty()) {
+                    stack.pop();
                 }
             } else {
-                sb.append(c);
+                stack.push(c);
             }
         }
-        return sb.toString();
+
+        StringBuilder sb = new StringBuilder();
+        while (!stack.isEmpty()) {
+            sb.append(stack.pop());
+        }
+
+        return sb.reverse().toString();
     }
 }
